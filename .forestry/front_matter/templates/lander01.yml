@@ -1,4 +1,9 @@
 ---
 label: lander01
 hide_body: false
-fields: []
+fields:
+- name: hero_h1
+  type: text
+  config:
+    required: false
+  label: Hero H1
